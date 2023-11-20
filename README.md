@@ -15,8 +15,8 @@ Certifique-se de ter o Flutter SDK instalado em sua máquina. Para mais informa�
  bool "concluido"
 
  - Após a criação do banco você deve fornecer um arquivo `.env` na pasta `assets/` para configurar as chaves de API necessárias.
-X-Parse-Application-Id
-X-Parse-REST-API-Key
+ - X-Parse-Application-Id -> .env/BACK4APPID
+ - X-Parse-REST-API-Key   -> .env/BACK4APPAPIKEY
 
 ## Dependências
 
